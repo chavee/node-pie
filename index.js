@@ -27,7 +27,7 @@ var settings = {
             httpAdminRoot:"/",
             httpNodeRoot: "/api",
             userDir: userdir,
-            paletteCategories: ['netpie','subflows', 'input', 'output', 'function', 'social', 'mobile', 'storage', 'analysis', 'advanced'],
+            paletteCategories: ['nexpie','netpie','subflows', 'input', 'output', 'function', 'social', 'mobile', 'storage', 'analysis', 'advanced'],
             functionGlobalContext: {},
             editorTheme : {
                 page : {
